@@ -1,3 +1,11 @@
+"""
+Code by: Rudra Patel
+Description: The following code allows the user to use a simple to-do app that allows them to input 
+tasks and then remove them from the list when they are done with them.
+
+Library used: tkinter
+"""
+
 import tkinter as tk
 from tkinter import messagebox
 
