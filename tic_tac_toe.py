@@ -1,3 +1,11 @@
+"""
+Code by: Rudra Patel
+Description: The following code allows 2 users to play a game of tic-tac-toe with themselves.
+The game does not have a vs. computer option, but I will try adding that later on.
+
+Library used: tkinter
+"""
+
 import tkinter as tk
 from tkinter import messagebox
 
